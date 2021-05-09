@@ -1,4 +1,4 @@
-FROM php:5-apache
+FROM php:8-apache
 MAINTAINER Mike Petersen <mike@odania-it.de>
 
 WORKDIR /var/www/html
